@@ -2,8 +2,7 @@
 //
 // Created by: Joseph Kwon
 // Created on: Oct 30 2022
-// This program outputs the sum of all numbers preceding the user's
-// number using a while loop.
+// This program converts your celsius to fahrenheit
 
 #include <iostream>
 #include <string>
